@@ -11,3 +11,10 @@
 -----
 ### Education
 Donetsk National University, Applied Mathematics
+
+-----
+### Skills
+* HTML
+* CSS
+* JavaScript (basic)
+* Git
