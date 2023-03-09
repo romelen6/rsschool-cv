@@ -8,6 +8,8 @@
 * **Telegram:** @romelen6
 -----
 ### About me
+Passionate junior front-end developer with a desire to learn and grow in a collaborative team environment. Skilled in HTML, CSS, and JavaScript. Excels at creating pixel-perfect designs and working with cross-browser compatibility issues.
+
 -----
 ### Education
 Donetsk National University, Applied Mathematics
